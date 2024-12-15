@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.745d21a4.css",
+    "main.js": "/static/js/main.97fffa4d.js",
+    "static/media/hh-bw-wide.png": "/static/media/hh-bw-wide.5270a69c1187d7005474.png",
+    "index.html": "/index.html",
+    "main.745d21a4.css.map": "/static/css/main.745d21a4.css.map",
+    "main.97fffa4d.js.map": "/static/js/main.97fffa4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745d21a4.css",
+    "static/js/main.97fffa4d.js"
+  ]
+}
