@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.34f8275f.css",
-    "main.js": "/static/js/main.f2ab32d7.js",
-    "static/media/stars.mp4": "/static/media/stars.47ef341926f578821c2f.mp4",
+    "main.css": "/static/css/main.9352f240.css",
+    "main.js": "/static/js/main.f007313c.js",
+    "static/media/stars5.mp4": "/static/media/stars5.fcb4bd511896cf06fd66.mp4",
     "static/media/healy-hyper-banner.png": "/static/media/healy-hyper-banner.1fcc78954204872f2894.png",
     "static/media/kubernetes-logo.svg": "/static/media/kubernetes-logo.3935cf5428b10a2533fc4abf43f06c9c.svg",
     "static/media/azure-logo.svg": "/static/media/azure-logo.4e6cf773a5835602817f3df334dbe681.svg",
@@ -10,11 +10,11 @@
     "static/media/mongo-logo.svg": "/static/media/mongo-logo.63a055b845b16ba81d983b2832d7cf6e.svg",
     "static/media/es-logo.svg": "/static/media/es-logo.5d14042dede0f20b526987ecade72694.svg",
     "static/media/fastapi-logo.svg": "/static/media/fastapi-logo.1536093a1656eaee7a8d589641ff2803.svg",
-    "main.34f8275f.css.map": "/static/css/main.34f8275f.css.map",
-    "main.f2ab32d7.js.map": "/static/js/main.f2ab32d7.js.map"
+    "main.9352f240.css.map": "/static/css/main.9352f240.css.map",
+    "main.f007313c.js.map": "/static/js/main.f007313c.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f8275f.css",
-    "static/js/main.f2ab32d7.js"
+    "static/css/main.9352f240.css",
+    "static/js/main.f007313c.js"
   ]
 }
